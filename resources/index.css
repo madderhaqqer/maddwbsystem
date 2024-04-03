@@ -78,6 +78,20 @@ p {
 	margin: 10px 0;
 }
 
+.scp {
+	font-family: "Source Code Pro", monospace;
+}
+
+.nsans {
+	font-family: "Nunito Sans", sans-serif;
+}
+
+.pop {
+	font-family: "Poppins", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
 .list {
 	margin-left: 16px;
 }
