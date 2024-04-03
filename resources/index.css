@@ -1,0 +1,92 @@
+h2 {
+	margin-left: 15px;
+}
+
+h3 {
+	text-align: center;
+}
+
+.sitetitle {
+	display: inline-block;
+	text-align: center;
+	margin-left: 37%;
+}
+
+.colorsection {
+	border: 1px solid green;
+	margin: 10px auto;
+}
+
+.colorsection p {
+	font-weight: 700;
+	font-size: 22px;
+}
+
+.colorcontainer {
+	border: 1px solid purple;
+	display: inline-block;
+	width: 32%;
+	margin-bottom: 23px;
+	margin-left: 15px;
+}
+
+.coolblue {
+	border: 1px solid purple;
+	display: inline-block;
+	width: 32%;
+	margin-bottom: 23px;
+	margin-left: 15px;
+	background-color: #2d5dcc;
+}
+
+.pink {
+	border: 1px solid purple;
+	display: inline-block;
+	width: 32%;
+	margin-bottom: 23px;
+	margin-left: 15px;
+	background-color: #d957d9;
+}
+
+.mintgreen {
+	border: 1px solid purple;
+	display: inline-block;
+	width: 32%;
+	margin-bottom: 23px;
+	margin-left: 15px;
+	background-color: #4fe0b0;
+}
+
+p {
+	text-align: center;
+}
+
+.fontsection {
+	border: 1px solid blue;
+}
+
+.fontscontainer {
+	display: inline-block;
+	border: 1px solid red;
+	width: 32%;
+	margin-bottom: 23px;
+	margin-left: 15px;
+}
+
+.textsection {
+	border: 1px solid blue;
+	margin: 10px 0;
+}
+
+.list {
+	margin-left: 16px;
+}
+
+.texth1 {
+	font-size: 2em;
+	font-weight: bold;
+}
+
+.textp {
+	text-align: left;
+}
